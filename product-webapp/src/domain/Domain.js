@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Domain() {
-    return "http://13.57.221.11:8080/"
+    return "http://13.235.16.107:8080/"
 }
 
 export default Domain
